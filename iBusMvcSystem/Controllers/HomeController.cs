@@ -13,5 +13,9 @@ namespace iBusMvcSystem.Controllers
         {
             return View();
         }
+        public ActionResult View1()
+        {
+            return View();
+        }
     }
 }

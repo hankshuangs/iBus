@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="Models.Interface.IRepository_Article" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IRepository_Article.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="微軟正黑體" Size="9" />
+</ClassDiagram>
